@@ -1,2 +1,4 @@
 This folder contains the code and data to implement a coupled version of the QMCL-EULAG code where QMCL is used to 
 predict only the thermo values of the x=1500 column 
+
+Should be the original 'walker_bnch.d1-10' file read from IFL=4 as the initial starting point 
